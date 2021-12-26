@@ -1,0 +1,10 @@
+input,
+select {
+	display: block;
+	margin: 1rem 0;
+}
+
+input[type="checkbox"] {
+	display: inline;
+	color: red;
+}
